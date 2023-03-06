@@ -2,7 +2,7 @@ const ViedoDetil = () => {
     
     return ( 
         <div>
-            ViedoDetil
+            ViedoDetil with git tutrial
         </div>
      );
 }
